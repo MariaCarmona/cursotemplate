@@ -1,0 +1,41 @@
+.caja1{
+	margin: 20px auto; 
+	width: 150px;
+	height: 100px;
+	border-radius: 5%;
+	background-color: yellow;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.caja2{
+	margin: 20px auto;
+	width: 150px;
+	height: 100px;
+	border-radius: 5%;
+	background-color: green;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+input[type='text']{
+	width: 150px;
+}
+
+.error{
+	width: 200px;
+	height: 20px;
+	display: none;
+	position: absolute;
+	font-size: 16px;
+	margin-top: -20px;
+	margin-left: 160px;
+	background-color: red;
+	color: white;
+	font-family: sans-serif;
+	padding: 0 10px; 
+	border-radius: 2px;
+	font-weight: bold;
+
+
+}
